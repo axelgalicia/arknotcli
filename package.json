@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axelgalicia/sample-cli.git"
+    "url": "git+https://github.com/axelgalicia/arknotcli.git"
   },
   "keywords": [
     "cli"
@@ -19,9 +19,9 @@
   "author": "Axel Galicia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/axelgalicia/sample-cli/issues"
+    "url": "https://github.com/axelgalicia/arknotcli/issues"
   },
-  "homepage": "https://github.com/axelgalicia/sample-cli#readme",
+  "homepage": "https://github.com/axelgalicia/arknotcli#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "figlet": "^1.2.1",
