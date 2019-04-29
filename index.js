@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Template CLI
 
 // Based on: https://codeburst.io/building-a-node-js-interactive-cli-3cb80ed76c86
 // https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e
