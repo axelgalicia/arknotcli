@@ -1,4 +1,4 @@
-# sample-cli
+# arknotcli
 
 A simple CLI Template. 
 
